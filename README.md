@@ -26,7 +26,7 @@ Both models (BERT or Gemma) can be used to implement emotion detection for the r
 
 Once the core emotion is detected, a second model generates a response from the perspective of a character embodying that emotion. For the Response model, the Gemma 2 2B model was tuned with Unsloth and LoRA techniques, ensuring it produces responses that are emotionally rich and character-driven.
 
-For example, when the detected emotion is sadness, the model generates an empathetic response by adopting the persona of "Sadness" itself. In terms of techniques, we identified specific functions and tuned hyperparameters to ensure the model produces the desired emotional output.
+For example, when the detected emotion is sadness, the model generates an empathetic response by adopting the persona of "Sadness" itself. In terms of techniques, we identified specific functions and tuned hyperparameters to ensure the model produced the desired emotional output.
 
 This approach enhances the model's ability to deliver emotionally accurate and personalized responses, effectively capturing the essence of the detected emotion.
 
@@ -39,7 +39,9 @@ One example of the model's output is shown below. Let's say you input: "The weat
 
 ![image](https://github.com/user-attachments/assets/a718266b-92a3-4d7b-9352-ef16e42537e3)
 
-You can find the full original project code is accessible on Kaggle and Huggingface: https://www.kaggle.com/code/jiyoungleea/unsloth-final-version
+You can find the full original project here :
+
+Code is accessible on Kaggle and Huggingface: https://www.kaggle.com/code/jiyoungleea/unsloth-final-version
 
 Referece :
 
