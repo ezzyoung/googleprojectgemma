@@ -56,8 +56,3 @@ https://velog.io/@judy_choi/Unsloth
 https://www.datacamp.com/tutorial/fine-tuning-gemma-2
 
 Created by Jiyoung Lee, Jeein Yang and Yoojin Kim.
-=======
----
-base_model: unsloth/gemma-2-2b
-library_name: peft
----
