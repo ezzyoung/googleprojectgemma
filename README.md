@@ -36,12 +36,12 @@ This approach enhances the model's ability to deliver emotionally accurate and p
 
 Below is an example of some of the prompting strategies we used:
 
-![image](https://github.com/user-attachments/assets/57e23d49-8bcd-44b1-a937-651f90989c5d)
+![image](https://github.com/user-attachments/assets/cc973962-4bd9-48c1-8897-737a0d908d95)
 
 
 One example of the model's output is shown below. Let's say you input: "The weather is perfect today! It's been months since I last felt this cool air!" The model will automatically detect the emotion (in this case, joy) and adopt the persona of the detected emotion (joy) to respond as follows:
 
-![image](https://github.com/user-attachments/assets/a718266b-92a3-4d7b-9352-ef16e42537e3)
+![image](https://github.com/user-attachments/assets/d88e10b5-2c90-4110-9737-5c3c7b4bfa8f)
 
 You can find the full original project here :
 
